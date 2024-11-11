@@ -1,4 +1,4 @@
-const backendDomin = "https://bigshop-pti9xl8g0-ankit-sharmas-projects-7cbad79d.vercel.ap"
+const backendDomin = "https://bigshop-pti9xl8g0-ankit-sharmas-projects-7cbad79d.vercel.app"
 
 const SummaryApi = {
     signUP : {
