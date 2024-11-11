@@ -1,4 +1,4 @@
-const backendDomin = process.env.REACT_APP_BACKEND_URL
+const backendDomin = "https://bigshop-zvlc.vercel.app"
 
 const SummaryApi = {
     signUP : {
