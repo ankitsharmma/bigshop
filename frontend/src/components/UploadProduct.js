@@ -42,9 +42,9 @@ const UploadProduct = ({
       return 
     const data =new FormData()
     data.append("file",file)
-    data.append("upload_preset","fist-timeused")
-    data.append("cloud_name","drnouct0k")
-   const response = await fetch("https://api.cloudinary.com/v1_1/drnouct0k/image/upload",{
+    data.append("upload_preset","firsttime")
+    data.append("cloud_name","dcuk4pkva")
+   const response = await fetch("https://api.cloudinary.com/v1_1/dcuk4pkva/image/upload",{
       method : "post",
       body : data
     })
